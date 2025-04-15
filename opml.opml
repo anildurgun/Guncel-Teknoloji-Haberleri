@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Test Feed</title>
+</head>
+<body>
+  <outline title="Teknoloji" text="Teknoloji">
+    <outline text="techdergi.net" title="techdergi.net" type="rss"
+           xmlUrl="https://techdergi.net/rss" htmlUrl="https://www.techdergi.net/"/>
+  </outline>
+</body>
+</opml>
