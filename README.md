@@ -1,6 +1,6 @@
 # Basit RSS Feed Listeleme Web Sitesi
 
-Bu proje, PHP, HTML ve CSS kullanılarak geliştirilmiş basit bir web sitesidir. Amacı, verilen bir OPML (Outline Processor Markup Language) dosyasındaki RSS feedlerini otomatik olarak tarayarak en güncel haberleri listelemektir. Haberler, yayın tarihlerine göre en yeniden en eskiye doğru sıralanır.
+Bu proje, PHP, HTML ve CSS kullanılarak geliştirilmiş Güncel [Teknoloji Haberleri](https://techdergi.net)ni okumanıza olanak sağlayan sitedir. Amacı, verilen bir OPML (Outline Processor Markup Language) dosyasındaki RSS feedlerini otomatik olarak tarayarak en güncel haberleri listelemektir. Haberler, yayın tarihlerine göre en yeniden en eskiye doğru sıralanır.
 
 ## Özellikler
 
@@ -24,10 +24,6 @@ Bu proje, PHP, HTML ve CSS kullanılarak geliştirilmiş basit bir web sitesidir
 1.  Bu kodu web sunucunuzun erişebileceği bir klasöre yükleyin.
 2.  `opml.opml` adında bir dosya oluşturun ve takip etmek istediğiniz RSS feedlerinin URL'lerini içeren OPML içeriğinizi bu dosyaya yapıştırın. Bu dosyayı `index.php` ile aynı klasöre yerleştirin.
 3.  İsteğe bağlı olarak, haberlerde görsel bulunamadığında gösterilecek bir `varsayilan_resim.png` dosyası oluşturup aynı klasöre ekleyebilirsiniz.
-
-## Güncel Teknoloji Haberleri
-
-En son teknoloji gelişmelerini takip etmek ve daha fazla **Güncel Teknoloji Haberleri** okumak için [TechDergi](https://techdergi.net) adresini ziyaret edebilirsiniz.
 
 ## Katkıda Bulunma
 
